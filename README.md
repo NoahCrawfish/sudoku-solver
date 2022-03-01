@@ -12,3 +12,7 @@ Keyboard controls:
 - Delete Cell - Backspace
 - Clear Board - Delete
 - Solve - Enter
+
+### Setup
+
+> pip install numpy

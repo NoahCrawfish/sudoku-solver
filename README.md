@@ -13,6 +13,7 @@ A **Python** application built with **tkinter** that can solve user-entered Sudo
   - Incrementally removes numbers while:
     - Re-running the solver to verify uniqueness
     - Rejecting removals that introduce multiple solutions
+  - "Easy", "Medium", or "Hard" difficulty determines how many numbers are removed
 
 ## Controls
 

@@ -6,10 +6,10 @@ A **Python** application built with **tkinter** that can solve user-entered Sudo
 
 - **Solving Algorithm**
   - Fills the grid via recursive backtracking
-  - Ensures each row, column, and 3×3 box satisfies Sudoku constraints
+  - Validates that each row, column, and 3×3 box satisfies Sudoku constraints
 
 - **Puzzle Generation**
-  - Initialized by running the solver on an empty grid
+  - Random initialization by running the solver on an empty grid
   - Incrementally removes numbers while:
     - Re-running the solver to verify uniqueness
     - Rejecting removals that introduce multiple solutions

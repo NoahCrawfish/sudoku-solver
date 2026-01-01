@@ -15,16 +15,16 @@ A **Python** application built with **tkinter** that can solve user-entered Sudo
     - Rejecting removals that introduce multiple solutions
   - "Easy", "Medium", or "Hard" difficulty determines how many numbers are removed
 
+## Demo Video
+
+https://user-images.githubusercontent.com/82133480/156081822-d87b9139-5f9e-4a6a-b478-4d1ba3d856df.mov
+
 ## Controls
 
 - Navigate: Arrow Keys
 - Delete Cell: Backspace
 - Clear Board: Delete
 - Solve: Enter
-
-## Demo
-
-https://user-images.githubusercontent.com/82133480/156081822-d87b9139-5f9e-4a6a-b478-4d1ba3d856df.mov
 
 ## Setup
 

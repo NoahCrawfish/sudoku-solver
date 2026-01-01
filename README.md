@@ -17,10 +17,10 @@ A **Python** application built with **tkinter** that can solve user-entered Sudo
 
 ## Controls
 
-- Navigate: *Arrow Keys*
-- Delete Cell: *Backspace*
-- Clear Board: *Delete*
-- Solve: *Enter*
+- Navigate: Arrow Keys
+- Delete Cell: Backspace
+- Clear Board: Delete
+- Solve: Enter
 
 ## Demo
 
